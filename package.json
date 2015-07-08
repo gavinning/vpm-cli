@@ -1,0 +1,26 @@
+{
+  "name": "vpm-cli",
+  "description": "vpm cli",
+  "main": "cli.js",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "vpm -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gavinning/vpm-cli.git"
+  },
+  "keywords": [
+      "vpm",
+      "vpm-cli"
+  ],
+  "author": "gavinning",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/gavinning/vpm-cli/issues"
+  },
+  "homepage": "https://github.com/gavinning/vpm-cli",
+  "dependencies": {
+      "commander": "2.8.1"
+  }
+}
